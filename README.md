@@ -1,6 +1,6 @@
 # WebStore — ZPI, sprint 1
 
-Implementacja US-01–US-12 z zaakceptowanej wersji v2 pliku [user-stories.md](dokumentacja/user-stories.md), na podstawie `wymagania/ZPI_NS_Lab1.pdf`. Lider zaakceptował poprawiony kod; ponowna recenzja zakończyła się wynikiem pozytywnym. R-01 i R-02 zamknięto po weryfikacji — szczegóły w [raporcie recenzji](dokumentacja/recenzja.md). Decyzja o zamknięciu sprintu należy do Lidera.
+Implementacja US-01–US-12 z zaakceptowanej wersji v2 pliku [user-stories.md](dokumentacja/user-stories.md), na podstawie `wymagania/ZPI_NS_Lab1.pdf`. Lider zaakceptował poprawiony kod; ponowna recenzja zakończyła się wynikiem pozytywnym. R-01 i R-02 zamknięto po weryfikacji — szczegóły w [raporcie recenzji](dokumentacja/recenzja.md). **Sprint 1 zamknięty decyzją Lidera „Zamykam sprint 1” z 24.10.2026.**
 
 ## Wymagania
 
@@ -97,4 +97,4 @@ Po ponownej akceptacji kodu przez Lidera recenzent niezależnie potwierdził **6
 
 Wcześniejszy test przeglądarkowy potwierdził komunikację React–serwer, widok komputera i telefonu oraz ponowienie po błędzie; poprzednie audyty npm i .NET nie wykazały znanych podatności. Po poprawkach nie zmieniono klienta ani zależności i nie powtarzano tych sprawdzeń.
 
-Klucz licencji AutoMapper pozostaje poza repozytorium i konfiguruje go Lider. Nie wykonano commitów.
+Klucz licencji AutoMapper pozostaje poza repozytorium i konfiguruje go Lider. Na odrębne polecenia Lidera utworzono commity `a10dd36` (wymagania i ustalenia) oraz `b805d8f` (implementacja, testy i recenzja), a następnie wysłano je do `origin/lab1`.

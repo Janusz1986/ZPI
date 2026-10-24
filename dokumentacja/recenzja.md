@@ -125,4 +125,10 @@ Macierz przedstawia bieżący stan. Niezmienione kryteria zachowują dowody z pi
 - Walidacja kontekstu obejmuje zapisy przez aplikację i Identity; nie jest zabezpieczeniem przed celowym pominięciem aplikacji przez surowy SQL.
 - Brak otwartych potwierdzonych defektów w sprawdzonym zakresie. Nie zmieniano zakresu stories, nie wykonywano commitów ani push.
 
-**Wynik końcowy recenzji: pozytywny. R-01 i R-02 zamknięte.** Implementacja sprintu 1 jest gotowa do decyzji Lidera o zamknięciu iteracji. Recenzent nie zamyka sprintu w jego imieniu.
+**Wynik końcowy recenzji: pozytywny. R-01 i R-02 zamknięte.**
+
+## Zamknięcie sprintu przez Lidera
+
+24.10.2026 Lider podjął w rozmowie projektu decyzję: „Zamykam sprint 1”. **Status sprintu 1: zamknięty.** Decyzja obejmuje zaakceptowane US-01–US-12 v2 wraz z P-01–P-04 oraz zaakceptowaną implementację po poprawkach R-01 i R-02, zweryfikowaną w tej recenzji.
+
+Po recenzji, na odrębne polecenia Lidera, utworzono commity `a10dd36` i `b805d8f` oraz wysłano je do `origin/lab1`. Zapis zamknięcia nie zmienia wymagań, implementacji ani wyników weryfikacji.

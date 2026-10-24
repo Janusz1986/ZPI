@@ -3,6 +3,7 @@
 - Źródło: `wymagania/ZPI_NS_Lab1.pdf`, 21 stron; numery stron poniżej oznaczają strony pliku PDF.
 - Wersja: v2.
 - Status: US-01–US-12 w wersji v2 wraz z P-01–P-04 zaakceptowane przez Lidera.
+- Status sprintu: zamknięty decyzją Lidera „Zamykam sprint 1” z 24.10.2026, po akceptacji kodu i pozytywnej recenzji; zakres wymagań v2 pozostaje bez zmian.
 - Decyzja: odpowiedź Lidera „Tak, akceptuję.” na pytanie o akceptację wszystkich 12 stories v2 i P-01–P-04, w rozmowie projektu 24.10.2026. Akceptacja dotyczy wymagań, nie kodu.
 - Zlecenie: Lider polecił rozpocząć pierwszy sprint. Nie stanowi to akceptacji stories ani kodu.
 
