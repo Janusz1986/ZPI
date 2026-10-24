@@ -55,6 +55,6 @@ Nie usuwaj cudzych plików, kodu, testów ani źródłowych wymagań w ramach po
 
 **Nie komituj kodu ani dokumentacji. Commitowanie jest wyłączną rolą Lidera.** Nie wykonuj również push, merge ani operacji publikujących zmiany bez odrębnego polecenia Lidera. Pozostaw przygotowane zmiany do jego przeglądu.
 
-Nie nadpisuj ani nie wycofuj zmian Lidera. Przed edycją zapoznaj się z istniejącym kodem i instrukcjami projektu. Stos technologiczny nie został jeszcze ustalony; jeżeli repozytorium go nie określa, uzgodnij go z Liderem przed rozpoczęciem implementacji.
+Nie nadpisuj ani nie wycofuj zmian Lidera. Przed edycją zapoznaj się z istniejącym kodem i instrukcjami projektu. Dla sprintu 1 Lider wybrał najnowszy .NET i zgodne biblioteki, z zachowaniem wymagań PDF. Podstawą jest najnowsza stabilna wersja, zweryfikowana przed wdrożeniem; zaakceptowana specyfikacja v2 wskazuje .NET 10. Zachowujemy ASP.NET Core, React, SQL Server, EF Core, Identity, AutoMapper i xUnit wymagane w instrukcji. Techniczne dostosowania historycznych poleceń PDF oraz propozycje brakujących reguł opisuje `dokumentacja/user-stories.md`; Lider zaakceptował US-01–US-12 v2 wraz z P-01–P-04 w rozmowie 24.10.2026; akceptacja kodu nadal pozostaje osobną bramką. Lider zapewni odpowiednią licencję na aktualny AutoMapper; klucz musi pozostać poza repozytorium.
 
 Raportuj wykonany zakres, przeprowadzone sprawdzenia, ich rzeczywiste wyniki oraz blokady. Nie twierdź, że test przeszedł, jeśli nie został uruchomiony. Nie zapisuj sekretów w kodzie ani dokumentacji.
